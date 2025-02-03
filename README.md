@@ -160,7 +160,7 @@
 #### [HiCervix](https://zenodo.org/records/11087263)
 > Cai, D., Yang, S., Tang, H., Huang, J., & Xiyue, W. (2024). HiCervix: An Extensive Hierarchical Dataset and Benchmark for Cervical Cytology Classification [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11087263
 
-### [Repomedunm](http://repomed.nusamandiri.ac.id/eng/)
+#### [Repomedunm](http://repomed.nusamandiri.ac.id/eng/)
 > Riana, Dwiza, et al. "Repomedunm: A new dataset for feature extraction and training of deep learning network for classification of pap smear images." International Conference on Neural Information Processing. Cham: Springer International Publishing, 2021.
 
 #### [CSD Dataset and FNAC2019](https://github.com/CVIU-CSU/TCT-InfoNCE)
